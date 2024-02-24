@@ -13,5 +13,7 @@
   
   .box-two {
     background-color: blue;
-    border: 0 solid yellow;
+    padding: 20px;
+    border: 20px solid yellow;
+    margin: 20px;
   } 
